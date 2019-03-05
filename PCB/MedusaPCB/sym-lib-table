@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name MedusaPCB)(type Legacy)(uri /home/afaozi/Project/MedusaSDR/PCB/MedusaPCB/MedusaPCB.lib)(options "")(descr ""))
+)
