@@ -15,15 +15,15 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Sheet
-S 2400 1850 1950 1400
-U 5C6C00DC
-F0 "Controller" 50
-F1 "Controller.sch" 50
+S 1850 1400 600  800 
+U 5C84176A
+F0 "kontroler" 50
+F1 "kontroler.sch" 50
 $EndSheet
 $Sheet
-S 5950 1750 1850 1450
-U 5C7D75D3
-F0 "RFparts" 50
-F1 "RF.sch" 50
+S 3350 1500 1000 950 
+U 5C841A40
+F0 "transmiter" 50
+F1 "transmiter.sch" 50
 $EndSheet
 $EndSCHEMATC
